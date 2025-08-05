@@ -184,7 +184,7 @@
       "properties" : {
         "Store State" : "Do not store state",
         "canonical-value-lookup-cache-size" : "100",
-        "foo" : "test"
+        "foo" : "hello"
       },
       "propertyDescriptors" : {
         "Delete Attributes Expression" : {
